@@ -9,7 +9,7 @@
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+
             int a = 17;
             int b = 4;
 
